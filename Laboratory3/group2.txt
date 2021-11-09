@@ -1,0 +1,9 @@
+Anton,1
+Anatoliy,4
+Ruslan,3
+David,5
+Anastasiya,2
+Nikolay,4
+Vladimir,4
+Valentin,3
+Dasha,5

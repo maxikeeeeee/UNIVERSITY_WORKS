@@ -1,0 +1,9 @@
+Oleg,5
+Stas,3
+Artem,4
+Oksana,2
+Maksim,5
+Sasha,2
+Ruslan,5
+Taras,4
+Nazar,3
